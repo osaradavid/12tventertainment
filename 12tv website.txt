@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>12TV Entertainment</title>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<a href="#" class="logo">
+				<img src="logo.png" alt="12TV Entertainment Logo">
+				<span>12TV Entertainment</span>
+			</a>
+			<nav>
+				<button class="hamburger"><i class="fas fa-bars"></i></button>
+				<ul>
+					<li><a href="#">Entertainment</a></li>
+					<li><a href="#">Technology</a></li>
+					<li><a href="#">Reviews</a></li>
+					<li><a href="#">News</a></li>
+					<li><a href="#">About</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+	<main>
+		<!-- Content Goes Here -->
+	</main>
+	<footer>
+		<div class="container">
+		</div>
+	</footer>
+	<script src="script.js"></script>
+</body>
+</html>
+	
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <meta http-equiv="X-UA-Compatible" content="ie=edge">
+          <title>12TV Entertainment</title>
+          <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+          <link href="https://fonts.googleapis.com/css?family=Helvetica" rel="stylesheet">
+          <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+          <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+          <header>
+            <div class="logo">
+              <img src="logo.png" alt="12TV Entertainment Logo">
+            </div>
+            <nav>
+              <div class="hamburger-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+              <ul class="main-nav">
+                <li><a href="#">Entertainment</a></li>
+                <li><a href="#">Technology</a></li>
+                <li><a href="#">Reviews</a></li>
+                <li><a href="#">News</a></li>
+                <li><a href="#">About</a></li>
+              </ul>
+            </nav>
+            <div class="search-bar">
+              <form action="#" method="get">
+                <input type="text" placeholder="Search...">
+                <button type="submit"><i class="fas fa-search"></i></button>
+              </form>
+            </div>
+          </header>
+          <section class="banner">
+            <h1>Welcome to 12TV Entertainment</h1>
+            <p>Find the latest news and reviews on entertainment and technology</p>
+          </section>
+        </body>
+        </html>
+            <section id="entertainment">
+                <h2>Entertainment</h2>
+                <p>Stay up-to-date with the latest news and reviews on the world of entertainment.</p>
+                
+                <div class="articles">
+                  <article>
+                    <img src="image-url-here" alt="Movie poster">
+                    <h3>Movie title here</h3>
+                    <p class="summary">Short summary of the movie</p>
+                    <a href="#">Read more</a>
+                  </article>
+                  
+                  <article>
+                    <img src="image-url-here" alt="TV show poster">
+                    <h3>TV show title here</h3>
+                    <p class="summary">Short summary of the TV show</p>
+                    <a href="#">Read more</a>
+                  </article>
+                  
+                  <article>
+                    <img src="image-url-here" alt="Music album cover">
+                    <h3>Music album title here</h3>
+                    <p class="summary">Short summary of the music album</p>
+                    <a href="#">Read more</a>
+                  </article>
+                  
+                  <article>
+                    <img src="image-url-here" alt="Interviewee photo">
+                    <h3>Interviewee name here</h3>
+                    <p class="summary">Short summary of the interview</p>
+                    <a href="#">Read more</a>
+                  </article>
+                </div>
+              </section>
+              <section id="technology">
+                <h2>Technology</h2>
+                <p>Our Technology section is dedicated to the latest gadgets and tech trends. We cover everything from smartphones to laptops, gaming consoles to smart home devices. We provide detailed product reviews and comparisons, as well as news and insights on the latest technological advancements. Our experts also provide helpful tips and tutorials to help you get the most out of your gadgets and devices.</p>
+                <div class="product-reviews">
+                  <h3>Product Reviews</h3>
+                  <ul>
+                    <li><a href="#">Review of the latest smartphone</a></li>
+                    <li><a href="#">Comparison of popular laptops</a></li>
+                    <li><a href="#">In-depth analysis of gaming consoles</a></li>
+                  </ul>
+                </div>
+                <div class="news-and-insights">
+                  <h3>News and Insights</h3>
+                  <ul>
+                    <li><a href="#">Top 10 technological advancements of the year</a></li>
+                    <li><a href="#">Interview with a leading tech innovator</a></li>
+                    <li><a href="#">New smart home devices to watch out for</a></li>
+                  </ul>
+                </div>
+                <div class="tips-and-tutorials">
+                  <h3>Tips and Tutorials</h3>
+                  <ul>
+                    <li><a href="#">How to maximize your smartphone battery life</a></li>
+                    <li><a href="#">Tips for improving your laptop's performance</a></li>
+                    <li><a href="#">Setting up your smart home devices</a></li>
+                  </ul>
+                </div>
+              </section>
+              <section id="gaming">
+                <div class="container">
+                  <h2>Gaming</h2>
+                  <p>Our Gaming section is a hub for all things related to gaming. We cover the latest video game releases and provide reviews and analysis of the hottest games. We also have exclusive interviews with game developers and industry insiders, giving you a behind-the-scenes look at the world of gaming.</p>
+                  <div class="row">
+                    <div class="col-md-4">
+                      <div class="card">
+                        <img src="img/game1.jpg" class="card-img-top" alt="Game 1">
+                        <div class="card-body">
+                          <h5 class="card-title">Game 1</h5>
+                          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper nisi et libero venenatis, sit amet bibendum quam interdum.</p>
+                          <a href="#" class="btn btn-primary">Read More</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="card">
+                        <img src="img/game2.jpg" class="card-img-top" alt="Game 2">
+                        <div class="card-body">
+                          <h5 class="card-title">Game 2</h5>
+                          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper nisi et libero venenatis, sit amet bibendum quam interdum.</p>
+                          <a href="#" class="btn btn-primary">Read More</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="card">
+                        <img src="img/game3.jpg" class="card-img-top" alt="Game 3">
+                        <div class="card-body">
+                          <h5 class="card-title">Game 3</h5>
+                          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper nisi et libero venenatis, sit amet bibendum quam interdum.</p>
+                          <a href="#" class="btn btn-primary">Read More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              <img src="image.jpg" alt="Description of the image">
+                                                            
